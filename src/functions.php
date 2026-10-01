@@ -3,5 +3,5 @@ function saludar($nombre) {
     return "Hola, " . $nombre . "!";
 }
 function nuevaFuncion() {
-    return "Soy una nueva función.";
+    return "cambio el mensaje en la rama main.";
 }
